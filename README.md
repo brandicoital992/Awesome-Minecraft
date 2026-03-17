@@ -1,5 +1,4 @@
-# Awesome Minecraft Server Links
-
+# 😎 Awesome Minecraft Server Links ⭐
 
 ![Awesome](https://awesome.re/badge.svg)
 
